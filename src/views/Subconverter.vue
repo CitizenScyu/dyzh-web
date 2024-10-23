@@ -479,7 +479,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "大象后端": "https://sub3.dxdyzh.tk",
+          "大象后端": "https://sub6.dxdyzh.tk",
           "佩奇后端": "https://api.nexconvert.com",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
@@ -490,7 +490,7 @@ export default {
           "墙洞": "https://api.dler.io",
         },
         backendOptions: [
-          {value: "https://sub3.dxdyzh.tk"},
+          {value: "https://sub6.dxdyzh.tk"},
           {value: "https://api.nexconvert.com"},
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
@@ -874,7 +874,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: this.getUrlParam() == "" ? "https://sub3.dxdyzh.tk" : this.getUrlParam(),
+        customBackend: this.getUrlParam() == "" ? "https://sub6.dxdyzh.tk" : this.getUrlParam(),
         shortType: "https://v1.mk/short",
         remoteConfig: "https://raw.githubusercontent.com/CitizenScyu/clash-rules/master/DNS.ini",
         excludeRemarks: "",
