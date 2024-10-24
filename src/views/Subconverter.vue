@@ -509,8 +509,8 @@ export default {
                 value: "https://raw.githubusercontent.com/CitizenScyu/clash-rules/master/DNS.ini"
               },
               {
-                label: "默认（自动测速）",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
+                label: "轮询",
+                value: "https://raw.githubusercontent.com/CitizenScyu/clash-rules/refs/heads/master/.github/lx.ini"
               }, 
             ]
           },
