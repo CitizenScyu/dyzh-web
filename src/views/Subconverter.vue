@@ -12,7 +12,7 @@
             <svg-icon class="youguan" icon-class="youtube" style="float:right;margin-left:10px" @click="gotoYouTuBe"/>
             <svg-icon class="channel" icon-class="telegram" style="float:right;margin-left: 10px"
                       @click="gotoTgChannel"/>
-            <div style="text-align:center;font-size:15px">订 阅 转 换(反向代理加密)</div>
+            <div style="text-align:center;font-size:15px">订 阅 转 换</div>
           </div>
           <el-container>
             <el-form :model="form" label-width="80px" label-position="left" style="width: 100%">
@@ -479,7 +479,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "大象后端": "https://sub6.dxdyzh.tk",
+          "大象后端": "https://sub8.dxdyzh.tk",
           "佩奇后端": "https://api.nexconvert.com",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
@@ -490,7 +490,7 @@ export default {
           "墙洞": "https://api.dler.io",
         },
         backendOptions: [
-          {value: "https://sub6.dxdyzh.tk"},
+          {value: "https://sub8.dxdyzh.tk"},
           {value: "https://api.nexconvert.com"},
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
