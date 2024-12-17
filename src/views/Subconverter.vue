@@ -874,7 +874,7 @@ export default {
       form: {
         sourceSubUrl: "",
         clientType: "",
-        customBackend: this.getUrlParam() == "" ? "https://sub6.dxdyzh.tk" : this.getUrlParam(),
+        customBackend: this.getUrlParam() == "" ? "https://sub8.dxdyzh.tk" : this.getUrlParam(),
         shortType: "https://v1.mk/short",
         remoteConfig: "https://raw.githubusercontent.com/CitizenScyu/clash-rules/master/DNS.ini",
         excludeRemarks: "",
