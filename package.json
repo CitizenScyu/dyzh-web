@@ -31,7 +31,5 @@
   "engines": {
     "node": "22.x"
   },
-  "resolutions": {
-    "@achrinza/node-ipc": "git+https://github.com/npes-py/node-ipc.git#6bbdbb7d2c1e6b9685c5922c166a5eca730d7b3f"
-  }
+  "packageManager": "yarn@1.22.19"
 }
